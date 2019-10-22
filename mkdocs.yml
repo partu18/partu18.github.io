@@ -1,0 +1,28 @@
+site_name: Partu's blog
+pages:
+  - Home: index.md
+  - CTF's:
+    - Hack the Box:
+      - Initial registration to HTB:  ctfs/hackthebox/registration.md
+      - Bashed:  ctfs/hackthebox/bashed.md
+      - Valentine:  ctfs/hackthebox/valentine.md
+      - Poison:  ctfs/hackthebox/poison.md
+      - Celestial:  ctfs/hackthebox/celestial.md
+      - Canape (favourite):  ctfs/hackthebox/canape.md
+    - My challenges:
+      - Ekoparty 2017: 
+        - Kidnapped: ctfs/own/eko2017/kidnapped.md
+      - Ekoparty 2018:
+        - Kidnapped the Revenge:  ctfs/own/eko2018/kidnapped_revenge.md
+      - Ekoparty 2019: 
+        - Secret Spy Message: ctfs/own/eko2019/secret_spy_message.md
+        - The Rich Text: ctfs/own/eko2019/rich_text.md
+        - Defuse the bomb: ctfs/own/eko2019/defuse_bomb.md
+        - Guess my number: ctfs/own/eko2019/guess_my_number.md
+  - Tiny Tools:
+    - Almost sudo: tiny_tools/almost_sudo.md
+    - Pastemon: tiny_tools/pastemon.md
+  - Arduino:
+    - Robot: arduino/robot.md
+  - Revering Windows ETW:
+    - Introduction: etw/introduction.md
